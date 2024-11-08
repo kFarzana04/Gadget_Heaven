@@ -1,0 +1,233 @@
+[
+    {
+        "productId": 1,
+        "productTitle": "Laptop Pro X",
+        "productImage": "../src/assets/Laptop Business Pro.jpg",
+        "category": "laptops",
+        "price": "$999",
+        "description": "High-performance laptop with a 15-inch display and advanced cooling.",
+        "specification": ["16GB RAM", "512GB SSD", "Intel Core i7"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "productId": 2,
+        "productTitle": "ASUS Zenbook 14 inch",
+        "productImage": "../src/assets/ASUS-Zenbook-14.jpg",
+        "category": "laptops",
+        "price": "$749",
+        "description": "Ultra-thin and lightweight laptop for mobility and productivity.",
+        "specification": ["8GB RAM", "256GB SSD", "Intel Core i5"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "productId": 3,
+        "productTitle": "Gaming Laptop Ultra",
+        "productImage": "../src/assets/Gaming Laptop Ultra.jpg",
+        "category": "laptops",
+        "price": "$1299",
+        "description": "Gaming powerhouse with a high-refresh-rate display and dedicated GPU.",
+        "specification": ["16GB RAM", "1TB SSD", "NVIDIA RTX 3070"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "productId": 4,
+        "productTitle": "Laptop Business Pro",
+        "productImage": "../src/assets/Laptop Business Pro.jpg",
+        "category": "laptops",
+        "price": "$899",
+        "description": "Reliable laptop with excellent battery life, ideal for business.",
+        "specification": ["16GB RAM", "512GB SSD", "Intel Core i5"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "productId": 5,
+        "productTitle": "Creative Studio Laptop",
+        "productImage": "../src/assets/Creative Studio Laptop.jpg",
+        "category": "laptops",
+        "price": "$1149",
+        "description": "Optimized for creative professionals with a high-resolution display.",
+        "specification": ["32GB RAM", "1TB SSD", "Intel Core i7"],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "productId": 6,
+        "productTitle": "Budget Laptop Plus",
+        "productImage": "../src/assets/Budget Laptop Plus.jpg",
+        "category": "laptops",
+        "price": "$549",
+        "description": "Affordable laptop with essential features for everyday use.",
+        "specification": ["8GB RAM", "128GB SSD", "Intel Core i3"],
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "productId": 7,
+        "productTitle": "IPhone",
+        "productImage": "../src/assets/Iphone.jpg",
+        "category": "mobiles",
+        "price": "$899",
+        "description": "High-end smartphone with a stunning display and powerful processor.",
+        "specification": ["128GB storage", "6.5-inch display", "5G"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "productId": 8,
+        "productTitle": "Smartphone Mini",
+        "productImage": "../src/assets/RarePhone Mini.jpg",
+        "category": "mobiles",
+        "price": "$649",
+        "description": "Compact smartphone with an efficient battery and bright display.",
+        "specification": ["64GB storage", "5.8-inch display", "4G"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "productId": 9,
+        "productTitle": "Smartphone Ultra",
+        "productImage": "../src/assets/Smartphone Ultra.jpg",
+        "category": "mobiles",
+        "price": "$1099",
+        "description": "Flagship smartphone with top-tier performance and camera quality.",
+        "specification": ["256GB storage", "6.7-inch display", "5G"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "productId": 10,
+        "productTitle": "Budget Smartphone",
+        "productImage": "../src/assets/Smartphone Mini.jpg",
+        "category": "mobiles",
+        "price": "$299",
+        "description": "Affordable smartphone with essential features and solid performance.",
+        "specification": ["32GB storage", "6.1-inch display", "4G"],
+        "availability": true,
+        "rating": 3.9
+    },
+    {
+        "productId": 11,
+        "productTitle": "Smartphone X Pro",
+        "productImage": "../src/assets/Smartphone X Pro.jpg",
+        "category": "mobiles",
+        "price": "$749",
+        "description": "Mid-range smartphone with balanced performance and great battery life.",
+        "specification": ["128GB storage", "6.4-inch display", "4G"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "productId": 12,
+        "productTitle": "Smartphone Max",
+        "productImage": "../src/assets/Smartphone Mini.jpg",
+        "category": "mobiles",
+        "price": "$999",
+        "description": "Large display smartphone with advanced multimedia features.",
+        "specification": ["256GB storage", "7.0-inch display", "5G"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "productId": 13,
+        "productTitle": "Earpods Pro",
+        "productImage": "../src/assets/Earpods Pro.jpg",
+        "category": "earpods",
+        "price": "$199",
+        "description": "Wireless earpods with active noise cancellation and long battery life.",
+        "specification": ["Bluetooth 5.0", "ANC", "24-hour battery life"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "productId": 14,
+        "productTitle": "Earpods Lite",
+        "productImage": "../src/assets/Earpods Lite.jpg",
+        "category": "earpods",
+        "price": "$99",
+        "description": "Affordable wireless earpods with clear sound quality.",
+        "specification": ["Bluetooth 4.2", "10-hour battery life"],
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "productId": 15,
+        "productTitle": "Earpods Max",
+        "productImage": "../src/assets/Earpods Pro.jpg",
+        "category": "earpods",
+        "price": "$249",
+        "description": "Premium earpods with superior sound and comfort.",
+        "specification": ["Bluetooth 5.0", "ANC", "30-hour battery life"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "productId": 16,
+        "productTitle": "Wireless Earbuds",
+        "productImage": "../src/assets/Earpods Pro.jpg",
+        "category": "earbuds",
+        "price": "$89",
+        "description": "Compact wireless earbuds with impressive sound quality.",
+        "specification": ["Bluetooth 5.0", "12-hour battery life"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "productId": 17,
+        "productTitle": "Noise-Canceling Earbuds",
+        "productImage": "../src/assets/Earpods Max.jpg",
+        "category": "earbuds",
+        "price": "$149",
+        "description": "Wireless earbuds with active noise canceling and premium sound.",
+        "specification": ["Bluetooth 5.1", "ANC", "20-hour battery life"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "productId": 18,
+        "productTitle": "Sport Earbuds",
+        "productImage": "../src/assets/Earpods Lite.jpg",
+        "category": "earbuds",
+        "price": "$79",
+        "description": "Durable, water-resistant earbuds for active use.",
+        "specification": ["Bluetooth 4.2", "8-hour battery life", "IPX5"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "productId": 19,
+        "productTitle": "EarPhone X",
+        "productImage": "../src/assets/RarePhone X.jpg",
+        "category": "earphones",
+        "price": "$12",
+        "description": "Limited edition smartphone with cutting-edge features and unique design.",
+        "specification": ["6.7-inch OLED display", "128GB storage", "5G support", "48MP triple camera"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "productId": 20,
+        "productTitle": "EarPhone Mini",
+        "productImage": "../src/assets/RarePhone Mini.jpg",
+        "category": "earphones",
+        "price": "$9",
+        "description": "Compact earphone with powerful performance and advanced camera.",
+        "specification": ["5.4-inch OLED display", "64GB storage", "5G support", "32MP dual camera"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "productId": 21,
+        "productTitle": "EarPhone Pro Max",
+        "productImage": "../src/assets/RarePhone Pro Max.png",
+        "category": "earphones",
+        "price": "$15",
+        "description": "High-end earphone with maximum storage and enhanced display.",
+        "specification": ["6.9-inch Super Retina display", "256GB storage", "5G support", "108MP quad camera"],
+        "availability": true,
+        "rating": 4.9
+    }
+]
